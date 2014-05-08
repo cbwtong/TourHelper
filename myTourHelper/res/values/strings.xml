@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TourHelper</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="basic_map">basic_map</string>
+    <string name="label_cancel">取消</string>
+    <string name="label_save">保存</string>
+    <string name="label_name">名称</string>
+    <string name="label_description">描述</string>
+    <string name="label_place_info">位置信息</string>
+    <string name="label_add_name_desc">Name is mandatory</string>
+	<string name="label_title_already_exists">A place with a similar name already exists</string>
+	<string name="label_add_place">添加新地点</string>
+	<string name="label_vocie_record">长按开始录音</string>
+	<string name="advance">高级</string>
+	<string name="label_vocie_play">播放录音</string>
+	<string name="label_open_camera">打开相机</string>
+	<string name="label_pictrue_local">本地图库</string>
+	<string name="label_picture_upload">上传照片</string>
+</resources>

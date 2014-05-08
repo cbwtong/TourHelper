@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string-array name="options">
+            <item >声音提醒</item>
+            <item >图片提醒</item>
+            <item >文字提醒</item>
+        </string-array>
+    </resources>
